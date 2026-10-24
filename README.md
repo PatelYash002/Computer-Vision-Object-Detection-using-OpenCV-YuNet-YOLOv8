@@ -10,7 +10,7 @@ This project is a hands-on Computer Vision practical built with **OpenCV, NumPy,
 
 It progresses from fundamental image-processing operations to modern deep-learning-based detection and finally combines the techniques into a **real-time integrated computer-vision pipeline**.
 
-🎥 **Video:** [`Explanation Video`](https://drive.google.com/drive/folders/10eQdN-SBNq0FziDCQhC7d7krA_1F8MDi?usp=sharing)
+🎥 **Video:** [`Explanation Video`](https://drive.google.com/file/d/1wMT6D6rbSEs8DCrnSy6kEquVZE1eAoVn/view?usp=sharing)
 ---
 
 ### 🎯 Main Objectives
